@@ -1,7 +1,7 @@
 Olá!
 
 - Hoje trabalho com teste de software
-- Estudando teste de automação de Front-End e API
+- Estudando testes automatizados
 
  <div>
   <a href="https://github.com/jamillerocha">
