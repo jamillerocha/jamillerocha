@@ -1,7 +1,4 @@
-Olá!
 
-- Hoje trabalho com teste de software
-- Estudando testes automatizados
 
  <div>
   <a href="https://github.com/jamillerocha">
